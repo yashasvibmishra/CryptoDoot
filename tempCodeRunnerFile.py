@@ -1,0 +1,1 @@
+r'C:\Users\KIIT\Desktop\bitcoin_tracker\img.png'
