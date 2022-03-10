@@ -23,7 +23,7 @@ import telegram
 from telegram.ext import Updater
 from telegram.ext import CommandHandler
 
-telegram_bot_token = '5101284223:AAGuasvtgsxtypb9n4Eu8Kk7soGqQfspshc'
+telegram_bot_token = 'YOUR TELEGRAM BOTS TOKEN'
 
 updater = Updater(token=telegram_bot_token, use_context=True)
 dispatcher = updater.dispatcher
