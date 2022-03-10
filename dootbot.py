@@ -61,7 +61,7 @@ def forecast(update, context):
 def version(update, context):
     chat_id = update.effective_chat.id
     message = "Welcome to CrytpoDoot! Version 1.0.0\n\n"
-    message += "Software Maintainer: Yashasvi (1906646)\n\n"
+    message += "Software Maintainer: Yashasvi Baneswar Mishra (yashasvimishra1@gmail.com)\n\n"
     context.bot.send_message(chat_id=chat_id, text=message)
 
 def qr(update, context):
@@ -71,9 +71,9 @@ def qr(update, context):
 
 def feedback(update, context):
     chat_id = update.effective_chat.id
-    message = "Have any feedback, suggestions or bug reports? Feel free to mail the maintainer, Yashasvi (yashasvimishra1@gmail.com)-\n\n"
+    message = "Have any feedback, suggestions or bug reports? Feel free to mail the maintainer, Yashasvi Baneswar Mishra (yashasvimishra1@gmail.com)-\n\n"
     message += "Want to get into the Beta Developer/Tester group? Feel free to mail the Administrator -\n\n"
-    message += "Admin: Yashasvi (yashasvimishra1@gmail.com)\n\n"
+    message += "Admin: Yashasvi Baneswar Mishra (yashasvimishra1@gmail.com)\n\n"
     context.bot.send_message(chat_id=chat_id, text=message)
 
 
