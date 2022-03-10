@@ -35,9 +35,9 @@ import dootbot
 
 
 # global variables
-api_key = '922b5f87-4a1f-4fdb-bbe3-67a907496621'   
-bot_token = '5101284223:AAGuasvtgsxtypb9n4Eu8Kk7soGqQfspshc'  
-chat_id = ('1036457320','836797807','1234173077','1023303046','684866360')
+api_key = 'APPROPRIATE API KEY FROM A SERVICE OF YOUR CHOICE'   
+bot_token = 'YOUR TELEGRAM BOT TOKEN'  
+chat_id = ('YOUR CHAT ID') # YOU CAN ADD MULITPLE CHAT IDS SEPARATED BY COMMAS, ENCLOSED WITHIN SINGLE INVERTED COMMAS
 threshold = 45000
 time_interval = 30  
 def get_btc_price():   
