@@ -73,7 +73,7 @@ def feedback(update, context):
     chat_id = update.effective_chat.id
     message = "Have any feedback, suggestions or bug reports? Feel free to mail the maintainer, Yashasvi (1906646@kiit.ac.in)-\n\n"
     message += "Want to get into the Beta Developer/Tester group? Feel free to mail the Administrator -\n\n"
-    message += "Admins: Yashasvi (1906646@kiit.ac.in)\n\n"
+    message += "Admin: Yashasvi (1906646@kiit.ac.in)\n\n"
     context.bot.send_message(chat_id=chat_id, text=message)
 
 
