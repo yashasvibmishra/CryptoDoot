@@ -62,7 +62,6 @@ def version(update, context):
     chat_id = update.effective_chat.id
     message = "Welcome to CrytpoDoot! Version 1.0.0\n\n"
     message += "Software Maintainer: Yashasvi (1906646)\n\n"
-    message += "Administrators: Yashasvi (1906646), Soumesh(1906660), Rudrashish (1906649), Arpan (1906606), Sourav(1906640) \n\n"
     context.bot.send_message(chat_id=chat_id, text=message)
 
 def qr(update, context):
@@ -73,8 +72,8 @@ def qr(update, context):
 def feedback(update, context):
     chat_id = update.effective_chat.id
     message = "Have any feedback, suggestions or bug reports? Feel free to mail the maintainer, Yashasvi (1906646@kiit.ac.in)-\n\n"
-    message += "Want to get into the Beta Developer/Tester group? Feel free to Mail any of following the Administrators -\n\n"
-    message += "Admins: Yashasvi (1906646@kiit.ac.in), Soumesh(1906660@kiit.ac.in), Rudrashish (1906649@kiit.ac.in), Arpan (1906606@kiit.ac.in), Sourav(1906640@kiit.ac.in) \n\n"
+    message += "Want to get into the Beta Developer/Tester group? Feel free to mail the Administrator -\n\n"
+    message += "Admins: Yashasvi (1906646@kiit.ac.in)\n\n"
     context.bot.send_message(chat_id=chat_id, text=message)
 
 
