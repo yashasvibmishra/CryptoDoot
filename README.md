@@ -1,4 +1,7 @@
+Copyright is held by © Yashasvi Baneswar Mishra, 2022
 
+You are free to use all artwork and code in this repository in accordance of the
+terms of the AGPL.
 
 This project is for informational purposes only. You should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained here constitutes a solicitation, recommendation, endorsement, or offer by me or any third party service provider to buy or sell any securities or other financial instruments in this or in any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such jurisdiction.
 
