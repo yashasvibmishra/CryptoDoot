@@ -1,4 +1,4 @@
-© Yashasvi Baneswar Mishra, 2022
+
 
 You are free to use all artwork and code in this repository in accordance of the
 terms of the AGPL.
